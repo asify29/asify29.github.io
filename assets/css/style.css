@@ -196,6 +196,10 @@ h6 {
   align-items: center;
 }
 
+#header.header-top .container .avatar {
+  display: none !important;
+}
+
 #header.header-top .navbar {
   margin: 0;
 }
