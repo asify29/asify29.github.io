@@ -3,8 +3,8 @@
 # General
 --------------------------------------------------------------*/
 :root{
-  --bgColorPrimary:#052c65;
-  --bgColorSecondary:#053365;
+  --bgColorPrimary:#010101;
+  --bgColorSecondary:#131415;
   --textColor:#fff;
   --highLightTextColor:#ffc107;
 }
