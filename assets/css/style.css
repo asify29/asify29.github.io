@@ -846,8 +846,10 @@ section .container {
   position: relative;
   overflow: hidden;
   z-index: 1;
-  background: var(--bgColorPrimary);
   border-radius: 12px;
+  background-size: cover !important;
+  background-position: center !important;
+  height: 220px;
 }
 
 .portfolio .portfolio-wrap::before {
